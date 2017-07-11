@@ -1,0 +1,6 @@
+
+Compile the code by executing the following commands:
+
+g++ blindsignature.cpp -L. -l RSAutil -o prog
+
+./prog
